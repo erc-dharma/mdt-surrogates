@@ -2,7 +2,7 @@ name: XML Splitting
 
 on:
   workflow_run:
-    workflows: ["CSV to XML for mtd Surrogates"]
+    workflows: ["Cleaning comma for Surrogates"]
     types:
       - completed
 

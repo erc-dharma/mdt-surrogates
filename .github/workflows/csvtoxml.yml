@@ -1,4 +1,4 @@
-name: CSV to XML for mtd Surrogates
+name: CSV to XML for Surrogates
 
 on:
   push
