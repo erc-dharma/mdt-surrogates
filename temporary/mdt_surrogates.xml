@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<File/>
+<?xml version="1.0" encoding="UTF-8"?><File><line><resourceManagement><resourceID/><metadataOrigin/><metadataEditor><change when="" who="part:">
+                                edition of medadata
+                            </change></metadataEditor><metadataContribution><change who="part:">
+                                Contributions made in medadata
+                            </change></metadataContribution><metadataReview><change when="" who="part:">
+                                Reviews of medadata
+                            </change></metadataReview><project/><corpus/><metadataRights/></resourceManagement><surrogateDescription><surrogateID/><surrogateType/><surrogateCreators><surrogateCreator/></surrogateCreators><surrogateCreationDate/><material/><surrogateFormat><height unit="cm"/><width unit="cm"/><linesNumber/><partOfText/></surrogateFormat><surrogatePreservation><inventoryNumber/><surrogateLegends><p/></surrogateLegends><surrogateCollection id=""/><preservationLocation/><boxLegend/></surrogatePreservation><surrogateRights><rightHolder/><surrogateDistributionRights/></surrogateRights><relatedEntities/></surrogateDescription></line></File>
